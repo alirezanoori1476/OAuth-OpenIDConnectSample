@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "STS", "STS", "{F6633D35-BD12-4E73-85E8-D4C777363F27}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Clients", "Clients", "{74960629-E1A0-4E9C-B397-4CEF6D8D4023}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Resource Servers", "Resource Servers", "{2268BCDB-B0D5-45F2-903E-66C8B9666381}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "STS", "STS\STS\STS.csproj", "{1FC0C19F-28D7-499A-8DFC-DD1ABC1B7637}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1FC0C19F-28D7-499A-8DFC-DD1ABC1B7637}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FC0C19F-28D7-499A-8DFC-DD1ABC1B7637}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FC0C19F-28D7-499A-8DFC-DD1ABC1B7637}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FC0C19F-28D7-499A-8DFC-DD1ABC1B7637}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{1FC0C19F-28D7-499A-8DFC-DD1ABC1B7637} = {F6633D35-BD12-4E73-85E8-D4C777363F27}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {85A16DF8-7FB3-4BC9-9E74-00F2A555C27E}
+	EndGlobalSection
+EndGlobal
